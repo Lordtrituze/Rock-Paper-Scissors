@@ -46,6 +46,13 @@ header > h1{
 #user, #computer{
     background-color: tomato;
     padding: 5px;
+    position: absolute;
+    top: 19%;
+    border-radius: 2px;
+    border: 1px solid rgb(44, 43, 54);
+}
+#computer{
+    left: 53.5%;
 }
 
 #result, .message{
